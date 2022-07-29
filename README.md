@@ -1,5 +1,8 @@
 # rockpaperscissors
 
+Lors du téléchargement des données, veuillez à bien télécharger le dossier "train", "test" et "validation, ET à les déposer dans un dossier "rpc" afin d'aider le notebook a trouvé automatiquement ses amis, les images, facilement. 
+
+
 Application de l'algorithmes Inception sur un dataset d'image réprésentant des mains faisant les signes pierre, papier et ciseaux dans le cadre du jeu très connus (notamment au Japon).
 
 Réalisation également d'un apprentissage personnalisation sans transfert sur le même dataset d'image du jeu.
